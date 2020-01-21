@@ -21,3 +21,5 @@ This game is based on this concept.
 Fork this Repository -> 
 Open the HTML file with Google Chrome Browser -> That's it! Now you can start playing
 
+## Try It Yourself
+https://colorgamejs.000webhostapp.com/ 
